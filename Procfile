@@ -1,0 +1,1 @@
+web: gunicorn bot_alive.wsgi --log-file -
